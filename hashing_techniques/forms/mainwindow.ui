@@ -34,7 +34,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit"/>
+           <widget class="QLineEdit" name="aEdit"/>
           </item>
           <item>
            <spacer name="horizontalSpacer">
@@ -66,7 +66,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit_2"/>
+           <widget class="QLineEdit" name="bEdit"/>
           </item>
           <item>
            <spacer name="horizontalSpacer_2">
@@ -98,7 +98,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit_3"/>
+           <widget class="QLineEdit" name="cEdit"/>
           </item>
           <item>
            <spacer name="horizontalSpacer_3">
@@ -128,7 +128,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit_4"/>
+           <widget class="QLineEdit" name="tEdit"/>
           </item>
           <item>
            <spacer name="horizontalSpacer_4">
@@ -177,7 +177,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton_2">
+           <widget class="QPushButton" name="hashButton">
             <property name="font">
              <font>
               <pointsize>18</pointsize>
@@ -189,7 +189,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QPushButton" name="pushButton">
+           <widget class="QPushButton" name="gammaButton">
             <property name="font">
              <font>
               <pointsize>18</pointsize>
@@ -258,7 +258,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLabel" name="label_8">
+           <widget class="QLabel" name="hashLabel">
             <property name="font">
              <font>
               <pointsize>18</pointsize>
@@ -287,7 +287,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLabel" name="label_7">
+           <widget class="QLabel" name="gammaLabel">
             <property name="font">
              <font>
               <pointsize>18</pointsize>
