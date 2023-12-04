@@ -34,7 +34,11 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="aEdit"/>
+           <widget class="QLineEdit" name="aEdit">
+            <property name="text">
+             <string>17</string>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer">
@@ -66,7 +70,11 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="bEdit"/>
+           <widget class="QLineEdit" name="bEdit">
+            <property name="text">
+             <string>11</string>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_2">
@@ -98,7 +106,11 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="cEdit"/>
+           <widget class="QLineEdit" name="cEdit">
+            <property name="text">
+             <string>256</string>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_3">
@@ -128,7 +140,11 @@
            </widget>
           </item>
           <item>
-           <widget class="QLineEdit" name="tEdit"/>
+           <widget class="QLineEdit" name="tEdit">
+            <property name="text">
+             <string>172</string>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_4">
