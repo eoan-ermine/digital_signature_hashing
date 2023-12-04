@@ -12,7 +12,9 @@ find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 
 qt_add_executable(hashing_techniques hashing_techniques/main.cpp
         hashing_techniques/forms/mainwindow.cpp
-        hashing_techniques/forms/mainwindow.hpp)
+        hashing_techniques/forms/mainwindow.hpp
+        hashing_techniques/hashing.cpp
+        hashing_techniques/hashing.hpp)
 
 set_target_properties(hashing_techniques PROPERTIES
         WIN32_EXECUTABLE TRUE
