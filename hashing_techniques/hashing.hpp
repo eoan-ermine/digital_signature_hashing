@@ -13,6 +13,6 @@ struct GammaParameters {
     long long t;
 };
 
-long long hashSum(const QString &text, HashParameters params);
+long long controlSum(const QString &text, HashParameters params);
 
 long long gammaSum(const QString &text, GammaParameters params);
